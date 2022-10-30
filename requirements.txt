@@ -26,3 +26,5 @@ torchdiffeq
 kornia
 lark
 inflection
+cv2
+mediapipe
